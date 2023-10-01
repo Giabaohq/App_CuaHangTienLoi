@@ -21,6 +21,7 @@
         }
 
         #region Windows Form Designer generated code
+            private System.Windows.Forms.Button btnKhac;
 
         /// <summary>
         /// Required method for Designer support - do not modify
